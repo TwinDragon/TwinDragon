@@ -2,9 +2,19 @@
 
 Some quick notes about me and what I do, because I'm not much of a coder. lol...
 
-First, my name is Ryan, and I can understand a tiny bit of code, but I could never write something from scratch. I used to do basic HTML/CSS stuff back in the day, but now I don't and stick to more practical skills. Below, you'll find a more detail list of my interests.
+Let's start with my name, Ryan. I can understand a tiny bit of code, but I could never write something from scratch. I used to do basic HTML/CSS stuff back in the day, but now I don't and stick to more practical skills. Below, you'll find a more detail list of my interests.
 
 ---
+
+### Personal Things
+
+My main website, [ShadowHime](website) is where I just post random things. At this time, it may end up not working as I'm going to change hosting providers and completely revamp my site.
+
+### Main Activity
+
+![Twitter Follow](https://img.shields.io/twitter/follow/TwinShadow_SH?color=A30000&label=TwinShadow_SH&logo=Twitter&style=plastic)
+![Discord](https://img.shields.io/discord/723321617140154409?color=A30000&label=Celestial%20Fox%20Streams&logo=Discord&style=plastic)
+![Twitch Status](https://img.shields.io/twitch/status/TwinShadow_SH?label=Celestial%20Fox%20Streams&logo=Twitch&style=plastic)
 
 ### Interests and Things
 
