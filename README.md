@@ -30,8 +30,15 @@ My main website, [ShadowHime][website] is where I just post random things. At th
 - Run a few Discord Servers
 - Hosts Various Discord Bots
 
-## Random Stuff
+## Random Stats
 
+<details>
+  <summary>Recent Activity on GitHub:</summary>
+
+  <!--START_SECTION:activity-->
+
+</details>
+<br /><br />
 <details>
   <summary>My Meager GitHub Stats:</summary>
 
