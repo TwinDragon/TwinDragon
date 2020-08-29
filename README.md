@@ -31,6 +31,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
 - Run a few Discord Servers
 - Hosts Various Discord Bots
 
+## Repos
+
+[![My Discord Themes](https://github-readme-stats.twindragon.vercel.app//api/pin/?username=TwinDragon&repo=DiscordTheme&show_owner=true&theme=dark)](https://github.com/TwinDragon/DiscordTheme)
+[![Celestial Fox Discord Issues](https://github-readme-stats.twindragon.vercel.app//api/pin/?username=The-Fox-Inc&repo=himeyuri_public&theme=dark)](https://github.com/The-Fox-Inc/himeyuri_public)
+
 ## Random Stats
 
 <details>
