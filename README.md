@@ -13,7 +13,7 @@ My main website, [ShadowHime][website] is where I just post random things. At th
 ## Main Activity
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TwinShadow_SH?color=A30000&label=TwinShadow_SH&logo=Twitter&style=plastic)][twitter]
-![Discord](https://img.shields.io/discord/723321617140154409?color=A30000&label=Celestial%20Fox%20Streams&logo=Discord&style=plastic)
+![Discord](https://img.shields.io/discord/723321617140154409?color=A30000&label=Celestial%20Fox%20Discord&logo=Discord&style=plastic)
 [![YouTube](https://img.shields.io/static/v1?label=TwinShadow_Fox&color=A30000&message=YouTube&logo=YouTube&logoColor=FF0000&style=plastic)][youtube]
 [![Twitch Status](https://img.shields.io/twitch/status/TwinShadow_SH?label=Celestial%20Fox%20Streams&logo=Twitch&style=plastic)][twitch]
 
