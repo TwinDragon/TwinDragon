@@ -38,7 +38,7 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <!--START_SECTION:activity-->
 
 </details>
-<br /><br />
+<br />
 <details>
   <summary>My Meager GitHub Stats:</summary>
 
