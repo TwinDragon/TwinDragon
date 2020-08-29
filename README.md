@@ -6,17 +6,18 @@ Let's start with my name, Ryan. I can understand a tiny bit of code, but I could
 
 ---
 
-### Personal Things
+## Personal Things
 
-My main website, [ShadowHime](website) is where I just post random things. At this time, it may end up not working as I'm going to change hosting providers and completely revamp my site.
+My main website, [ShadowHime][website] is where I just post random things. At this time, it may end up not working as I'm going to change hosting providers and completely revamp my site.
 
-### Main Activity
+## Main Activity
 
-![Twitter Follow](https://img.shields.io/twitter/follow/TwinShadow_SH?color=A30000&label=TwinShadow_SH&logo=Twitter&style=plastic)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TwinShadow_SH?color=A30000&label=TwinShadow_SH&logo=Twitter&style=plastic)][twitter]
 ![Discord](https://img.shields.io/discord/723321617140154409?color=A30000&label=Celestial%20Fox%20Streams&logo=Discord&style=plastic)
-![Twitch Status](https://img.shields.io/twitch/status/TwinShadow_SH?label=Celestial%20Fox%20Streams&logo=Twitch&style=plastic)
+[![YouTube](https://img.shields.io/static/v1?label=TwinShadow_Fox&color=A30000&message=YouTube&logo=YouTube&logoColor=FF0000&style=plastic)][youtube]
+[![Twitch Status](https://img.shields.io/twitch/status/TwinShadow_SH?label=Celestial%20Fox%20Streams&logo=Twitch&style=plastic)][twitch]
 
-### Interests and Things
+## Interests and Things
 
 - Big Anime Addict
 - Huge into Foxgirls
@@ -29,7 +30,7 @@ My main website, [ShadowHime](website) is where I just post random things. At th
 - Run a few Discord Servers
 - Hosts Various Discord Bots
 
-### Random Stuff
+## Random Stuff
 
 <details>
   <summary>My Meager GitHub Stats:</summary>
@@ -42,4 +43,4 @@ My main website, [ShadowHime](website) is where I just post random things. At th
 [twitter]: https://twitter.com/TwinShadow_SH
 [youtube]: https://youtube.com/c/TwinShadow_Fox
 [twitch]: https://twitch.tv/TwinShadow_SH
-[stream]: https://discord.io/celestialfox
+[discord]: https://discord.io/celestialfox
