@@ -22,9 +22,9 @@ First, my name is Ryan, and I can understand a tiny bit of code, but I could nev
 ## Random Stuff
 
 <details>
-    <summary>My Meager GitHub Stats:</summary>
+  <summary>My Meager GitHub Stats:</summary>
 
-    [![TwinDragon's GitHub Stats](https://github-readme-stats.twindragon.vercel.app/api?username=TwinDragon&show_icons=true&hide_border=true&theme=dark)](https://github.com/TwinDragon)
+  <img align="left" alt="TwinDragon's Stats" src="https://github-readme-stats.twindragon.vercel.app/api?username=TwinDragon&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
