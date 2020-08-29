@@ -20,6 +20,7 @@ My main website, [ShadowHime][website] is where I just post random things. At th
 ## Interests and Things
 
 - Big Anime Addict
+- Giant Fox Maniac
 - Huge into Foxgirls
 - Chill Game Streamer (occasionally)
 
