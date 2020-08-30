@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com//NeuroAssassin/Red-Dashboard/issues/22) in [NeuroAssassin/Red-Dashboard](https://github.com//NeuroAssassin/Red-Dashboard)
-2. 💪 Opened PR [#22](https://github.com//NeuroAssassin/Red-Dashboard/pull/22) in [NeuroAssassin/Red-Dashboard](https://github.com//NeuroAssassin/Red-Dashboard)
-3. ❌ Closed PR [#46](https://github.com//NFLD99/Better-Discord/pull/46) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
-4. ❌ Closed PR [#45](https://github.com//NFLD99/Better-Discord/pull/45) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
-5. ❌ Closed PR [#44](https://github.com//NFLD99/Better-Discord/pull/44) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
+1. ❗️ Opened issue [#3](https://github.com//Inwazzin/Mimikk-Cogs/issues/3) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
+2. ❗️ Opened issue [#2](https://github.com//Inwazzin/Mimikk-Cogs/issues/2) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
+3. ❗️ Opened issue [#1](https://github.com//Inwazzin/Mimikk-Cogs/issues/1) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
+4. 🗣 Commented on [#22](https://github.com//NeuroAssassin/Red-Dashboard/issues/22) in [NeuroAssassin/Red-Dashboard](https://github.com//NeuroAssassin/Red-Dashboard)
+5. 💪 Opened PR [#22](https://github.com//NeuroAssassin/Red-Dashboard/pull/22) in [NeuroAssassin/Red-Dashboard](https://github.com//NeuroAssassin/Red-Dashboard)
 <!--END_SECTION:activity-->
 
 </details>
