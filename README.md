@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com//Inwazzin/Mimikk-Cogs/issues/4) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
-2. ❗️ Opened issue [#3](https://github.com//Inwazzin/Mimikk-Cogs/issues/3) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
-3. ❗️ Opened issue [#2](https://github.com//Inwazzin/Mimikk-Cogs/issues/2) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
-4. ❗️ Opened issue [#1](https://github.com//Inwazzin/Mimikk-Cogs/issues/1) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
-5. 🗣 Commented on [#22](https://github.com//NeuroAssassin/Red-Dashboard/issues/22) in [NeuroAssassin/Red-Dashboard](https://github.com//NeuroAssassin/Red-Dashboard)
+1. ❗️ Opened issue [#47](https://github.com//NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
+2. ❗️ Opened issue [#4](https://github.com//Inwazzin/Mimikk-Cogs/issues/4) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
+3. ❗️ Opened issue [#3](https://github.com//Inwazzin/Mimikk-Cogs/issues/3) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
+4. ❗️ Opened issue [#2](https://github.com//Inwazzin/Mimikk-Cogs/issues/2) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
+5. ❗️ Opened issue [#1](https://github.com//Inwazzin/Mimikk-Cogs/issues/1) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
 <!--END_SECTION:activity-->
 
 </details>
