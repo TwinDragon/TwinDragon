@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#47](https://github.com//NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
-2. 🗣 Commented on [#47](https://github.com//NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
-3. ❗️ Opened issue [#47](https://github.com//NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
-4. ❗️ Opened issue [#4](https://github.com//Inwazzin/Mimikk-Cogs/issues/4) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
-5. ❗️ Opened issue [#3](https://github.com//Inwazzin/Mimikk-Cogs/issues/3) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
+1. ❗️ Opened issue [#5](https://github.com//Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com//Mimikkk/Mimikk-Cogs)
+2. ❗️ Closed issue [#47](https://github.com//NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
+3. 🗣 Commented on [#47](https://github.com//NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
+4. ❗️ Opened issue [#47](https://github.com//NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
+5. ❗️ Opened issue [#4](https://github.com//Inwazzin/Mimikk-Cogs/issues/4) in [Inwazzin/Mimikk-Cogs](https://github.com//Inwazzin/Mimikk-Cogs)
 <!--END_SECTION:activity-->
 
 </details>
