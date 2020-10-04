@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com/Mimikkk/Mimikk-Cogs)
-2. 🗣 Commented on [#5](https://github.com/Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com/Mimikkk/Mimikk-Cogs)
-3. ❗️ Opened issue [#5](https://github.com/Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com/Mimikkk/Mimikk-Cogs)
-4. ❗️ Closed issue [#47](https://github.com/NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com/NFLD99/Better-Discord)
-5. 🗣 Commented on [#47](https://github.com/NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com/NFLD99/Better-Discord)
+1. ❗️ Opened issue [#37](https://github.com/ZeLarpMaster/ZeCogsV3/issues/37) in [ZeLarpMaster/ZeCogsV3](https://github.com/ZeLarpMaster/ZeCogsV3)
+2. ❗️ Closed issue [#5](https://github.com/Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com/Mimikkk/Mimikk-Cogs)
+3. 🗣 Commented on [#5](https://github.com/Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com/Mimikkk/Mimikk-Cogs)
+4. ❗️ Opened issue [#5](https://github.com/Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com/Mimikkk/Mimikk-Cogs)
+5. ❗️ Closed issue [#47](https://github.com/NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com/NFLD99/Better-Discord)
 <!--END_SECTION:activity-->
 
 </details>
