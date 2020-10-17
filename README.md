@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/TwinDragon/github-readme-stats/pull/1) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
-2. 💪 Opened PR [#1](https://github.com/TwinDragon/github-readme-stats/pull/1) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
-3. ❗️ Opened issue [#37](https://github.com/ZeLarpMaster/ZeCogsV3/issues/37) in [ZeLarpMaster/ZeCogsV3](https://github.com/ZeLarpMaster/ZeCogsV3)
-4. ❗️ Closed issue [#5](https://github.com/Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com/Mimikkk/Mimikk-Cogs)
-5. 🗣 Commented on [#5](https://github.com/Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com/Mimikkk/Mimikk-Cogs)
+1. 🗣 Commented on [#1](https://github.com/nenodevs/NanoCore2/issues/1) in [nenodevs/NanoCore2](https://github.com/nenodevs/NanoCore2)
+2. 🎉 Merged PR [#1](https://github.com/TwinDragon/github-readme-stats/pull/1) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
+3. 💪 Opened PR [#1](https://github.com/TwinDragon/github-readme-stats/pull/1) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
+4. ❗️ Opened issue [#37](https://github.com/ZeLarpMaster/ZeCogsV3/issues/37) in [ZeLarpMaster/ZeCogsV3](https://github.com/ZeLarpMaster/ZeCogsV3)
+5. ❗️ Closed issue [#5](https://github.com/Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com/Mimikkk/Mimikk-Cogs)
 <!--END_SECTION:activity-->
 
 </details>
