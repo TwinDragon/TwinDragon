@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/nenodevs/uBlockProtector/issues/1) in [nenodevs/uBlockProtector](https://github.com/nenodevs/uBlockProtector)
+1. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
 2. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
-3. 🗣 Commented on [#1](https://github.com/nenodevs/NanoCore2/issues/1) in [nenodevs/NanoCore2](https://github.com/nenodevs/NanoCore2)
-4. 🎉 Merged PR [#1](https://github.com/TwinDragon/github-readme-stats/pull/1) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
-5. 💪 Opened PR [#1](https://github.com/TwinDragon/github-readme-stats/pull/1) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
+3. 🗣 Commented on [#1](https://github.com/nenodevs/uBlockProtector/issues/1) in [nenodevs/uBlockProtector](https://github.com/nenodevs/uBlockProtector)
+4. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
+5. 🗣 Commented on [#1](https://github.com/nenodevs/NanoCore2/issues/1) in [nenodevs/NanoCore2](https://github.com/nenodevs/NanoCore2)
 <!--END_SECTION:activity-->
 
 </details>
