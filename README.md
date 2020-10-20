@@ -45,7 +45,7 @@ My main website, [ShadowHime][website] is where I just post random things. At th
 1. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
 2. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
 3. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
-4. 🗣 Commented on [#1](https://github.com/nenodevs/uBlockProtector/issues/1) in [nenodevs/uBlockProtector](https://github.com/nenodevs/uBlockProtector)
+4. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
 5. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
 <!--END_SECTION:activity-->
 
