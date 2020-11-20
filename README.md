@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com//Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com//Mimikkk/Mimikk-Cogs)
-2. 🗣 Commented on [#5](https://github.com//Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com//Mimikkk/Mimikk-Cogs)
-3. ❗️ Opened issue [#5](https://github.com//Mimikkk/Mimikk-Cogs/issues/5) in [Mimikkk/Mimikk-Cogs](https://github.com//Mimikkk/Mimikk-Cogs)
-4. ❗️ Closed issue [#47](https://github.com//NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
-5. 🗣 Commented on [#47](https://github.com//NFLD99/Better-Discord/issues/47) in [NFLD99/Better-Discord](https://github.com//NFLD99/Better-Discord)
+1. ❗️ Opened issue [#177](https://github.com/aikaterna/aikaterna-cogs/issues/177) in [aikaterna/aikaterna-cogs](https://github.com/aikaterna/aikaterna-cogs)
+2. 💪 Opened PR [#43](https://github.com/Jintaku/Jintaku-Cogs-V3/pull/43) in [Jintaku/Jintaku-Cogs-V3](https://github.com/Jintaku/Jintaku-Cogs-V3)
+3. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
+4. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
+5. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
 <!--END_SECTION:activity-->
 
 </details>
