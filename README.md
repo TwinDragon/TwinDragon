@@ -42,9 +42,9 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#177](https://github.com/aikaterna/aikaterna-cogs/issues/177) in [aikaterna/aikaterna-cogs](https://github.com/aikaterna/aikaterna-cogs)
-2. 💪 Opened PR [#43](https://github.com/Jintaku/Jintaku-Cogs-V3/pull/43) in [Jintaku/Jintaku-Cogs-V3](https://github.com/Jintaku/Jintaku-Cogs-V3)
-3. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
+1. 🗣 Commented on [#11](https://github.com/odensc/ttv-ublock/issues/11) in [odensc/ttv-ublock](https://github.com/odensc/ttv-ublock)
+2. ❗️ Opened issue [#177](https://github.com/aikaterna/aikaterna-cogs/issues/177) in [aikaterna/aikaterna-cogs](https://github.com/aikaterna/aikaterna-cogs)
+3. 💪 Opened PR [#43](https://github.com/Jintaku/Jintaku-Cogs-V3/pull/43) in [Jintaku/Jintaku-Cogs-V3](https://github.com/Jintaku/Jintaku-Cogs-V3)
 4. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
 5. 🗣 Commented on [#2](https://github.com/jspenguin2017/Snippets/issues/2) in [jspenguin2017/Snippets](https://github.com/jspenguin2017/Snippets)
 <!--END_SECTION:activity-->
