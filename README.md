@@ -33,7 +33,7 @@ My main website, [ShadowHime][website] is where I just post random things. At th
 
 ## Repos
 
-[![My Discord Themes](https://github-readme-stats.twindragon.vercel.app//api/pin/?username=TwinDragon&repo=DiscordTheme&show_owner=true&theme=dark)](https://github.com/TwinDragon/DiscordTheme)
+[![Azur Lane Fleet Comp](https://github-readme-stats.twindragon.vercel.app//api/pin/?username=TwinDragon&repo=DiscordTheme&show_owner=true&theme=dark)](https://github.com/TwinDragon/AzurLane_comp)
 [![Celestial Fox Discord Issues](https://github-readme-stats.twindragon.vercel.app//api/pin/?username=The-Fox-Inc&repo=himeyuri_public&theme=dark)](https://github.com/The-Fox-Inc/himeyuri_public)
 
 ## Random Stats
