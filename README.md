@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
-2. 💪 Opened PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
-3. 🗣 Commented on [#11](https://github.com/odensc/ttv-ublock/issues/11) in [odensc/ttv-ublock](https://github.com/odensc/ttv-ublock)
-4. ❗️ Opened issue [#177](https://github.com/aikaterna/aikaterna-cogs/issues/177) in [aikaterna/aikaterna-cogs](https://github.com/aikaterna/aikaterna-cogs)
-5. 💪 Opened PR [#43](https://github.com/Jintaku/Jintaku-Cogs-V3/pull/43) in [Jintaku/Jintaku-Cogs-V3](https://github.com/Jintaku/Jintaku-Cogs-V3)
+1. 💪 Opened PR [#1](https://github.com/NFLD99/Better-Discord-Cleanup/pull/1) in [NFLD99/Better-Discord-Cleanup](https://github.com/NFLD99/Better-Discord-Cleanup)
+2. 🎉 Merged PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
+3. 💪 Opened PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
+4. 🗣 Commented on [#11](https://github.com/odensc/ttv-ublock/issues/11) in [odensc/ttv-ublock](https://github.com/odensc/ttv-ublock)
+5. ❗️ Opened issue [#177](https://github.com/aikaterna/aikaterna-cogs/issues/177) in [aikaterna/aikaterna-cogs](https://github.com/aikaterna/aikaterna-cogs)
 <!--END_SECTION:activity-->
 
 </details>
