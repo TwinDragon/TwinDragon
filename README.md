@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/NFLD99/Better-Discord-Cleanup/pull/1) in [NFLD99/Better-Discord-Cleanup](https://github.com/NFLD99/Better-Discord-Cleanup)
-2. 🎉 Merged PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
-3. 💪 Opened PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
-4. 🗣 Commented on [#11](https://github.com/odensc/ttv-ublock/issues/11) in [odensc/ttv-ublock](https://github.com/odensc/ttv-ublock)
-5. ❗️ Opened issue [#177](https://github.com/aikaterna/aikaterna-cogs/issues/177) in [aikaterna/aikaterna-cogs](https://github.com/aikaterna/aikaterna-cogs)
+1. 💪 Opened PR [#1](https://github.com/ShadowDevilsAvenged/Better-Discord/pull/1) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
+2. 💪 Opened PR [#1](https://github.com/NFLD99/Better-Discord-Cleanup/pull/1) in [NFLD99/Better-Discord-Cleanup](https://github.com/NFLD99/Better-Discord-Cleanup)
+3. 🎉 Merged PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
+4. 💪 Opened PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
+5. 🗣 Commented on [#11](https://github.com/odensc/ttv-ublock/issues/11) in [odensc/ttv-ublock](https://github.com/odensc/ttv-ublock)
 <!--END_SECTION:activity-->
 
 </details>
