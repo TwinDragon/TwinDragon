@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ShadowDevilsAvenged/Better-Discord/issues/1) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
-2. 💪 Opened PR [#1](https://github.com/ShadowDevilsAvenged/Better-Discord/pull/1) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
-3. 💪 Opened PR [#1](https://github.com/NFLD99/Better-Discord-Cleanup/pull/1) in [NFLD99/Better-Discord-Cleanup](https://github.com/NFLD99/Better-Discord-Cleanup)
-4. 🎉 Merged PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
-5. 💪 Opened PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
+1. 💪 Opened PR [#1](https://github.com/NFLD99/Better-Discord/pull/1) in [NFLD99/Better-Discord](https://github.com/NFLD99/Better-Discord)
+2. 🗣 Commented on [#1](https://github.com/ShadowDevilsAvenged/Better-Discord/issues/1) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
+3. 💪 Opened PR [#1](https://github.com/ShadowDevilsAvenged/Better-Discord/pull/1) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
+4. 💪 Opened PR [#1](https://github.com/NFLD99/Better-Discord-Cleanup/pull/1) in [NFLD99/Better-Discord-Cleanup](https://github.com/NFLD99/Better-Discord-Cleanup)
+5. 🎉 Merged PR [#2](https://github.com/TwinDragon/github-readme-stats/pull/2) in [TwinDragon/github-readme-stats](https://github.com/TwinDragon/github-readme-stats)
 <!--END_SECTION:activity-->
 
 </details>
