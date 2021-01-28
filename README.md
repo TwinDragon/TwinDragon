@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ShadowDevilsAvenged/Better-Discord/pull/2) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
-2. 🎉 Merged PR [#1](https://github.com/TwinDragon/Better-Discord/pull/1) in [TwinDragon/Better-Discord](https://github.com/TwinDragon/Better-Discord)
-3. 💪 Opened PR [#1](https://github.com/TwinDragon/Better-Discord/pull/1) in [TwinDragon/Better-Discord](https://github.com/TwinDragon/Better-Discord)
-4. ❌ Closed PR [#1](https://github.com/ShadowDevilsAvenged/Better-Discord/pull/1) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
-5. 🗣 Commented on [#1](https://github.com/ShadowDevilsAvenged/Better-Discord/issues/1) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
+1. 🎉 Merged PR [#1](https://github.com/TwinDragon/red-adventure-themes/pull/1) in [TwinDragon/red-adventure-themes](https://github.com/TwinDragon/red-adventure-themes)
+2. 💪 Opened PR [#1](https://github.com/TwinDragon/red-adventure-themes/pull/1) in [TwinDragon/red-adventure-themes](https://github.com/TwinDragon/red-adventure-themes)
+3. 💪 Opened PR [#2](https://github.com/ShadowDevilsAvenged/Better-Discord/pull/2) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
+4. 🎉 Merged PR [#1](https://github.com/TwinDragon/Better-Discord/pull/1) in [TwinDragon/Better-Discord](https://github.com/TwinDragon/Better-Discord)
+5. 💪 Opened PR [#1](https://github.com/TwinDragon/Better-Discord/pull/1) in [TwinDragon/Better-Discord](https://github.com/TwinDragon/Better-Discord)
 <!--END_SECTION:activity-->
 
 </details>
