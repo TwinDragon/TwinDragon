@@ -42,11 +42,11 @@ My main website, [ShadowHime][website] is where I just post random things. At th
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/ShadowDevilsAvenged/Better-Discord/pull/2) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
-2. ❗️ Opened issue [#361](https://github.com/aikaterna/gobcog/issues/361) in [aikaterna/gobcog](https://github.com/aikaterna/gobcog)
-3. 🎉 Merged PR [#1](https://github.com/TwinDragon/red-adventure-themes/pull/1) in [TwinDragon/red-adventure-themes](https://github.com/TwinDragon/red-adventure-themes)
-4. 💪 Opened PR [#1](https://github.com/TwinDragon/red-adventure-themes/pull/1) in [TwinDragon/red-adventure-themes](https://github.com/TwinDragon/red-adventure-themes)
-5. 💪 Opened PR [#2](https://github.com/ShadowDevilsAvenged/Better-Discord/pull/2) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
+1. 🎉 Merged PR [#1](https://github.com/TwinDragon/npc-cogs/pull/1) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
+2. ❌ Closed PR [#2](https://github.com/ShadowDevilsAvenged/Better-Discord/pull/2) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
+3. ❗️ Opened issue [#361](https://github.com/aikaterna/gobcog/issues/361) in [aikaterna/gobcog](https://github.com/aikaterna/gobcog)
+4. 🎉 Merged PR [#1](https://github.com/TwinDragon/red-adventure-themes/pull/1) in [TwinDragon/red-adventure-themes](https://github.com/TwinDragon/red-adventure-themes)
+5. 💪 Opened PR [#1](https://github.com/TwinDragon/red-adventure-themes/pull/1) in [TwinDragon/red-adventure-themes](https://github.com/TwinDragon/red-adventure-themes)
 <!--END_SECTION:activity-->
 
 </details>
