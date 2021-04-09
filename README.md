@@ -6,16 +6,18 @@ Let's start with my name, Ryan. I can understand a tiny bit of code, but I could
 
 ---
 
-## Personal Things
+## Discord Stuff
 
-My main website, [ShadowHime][website] is where I just post random things. At this time, it may end up not working as I'm going to change hosting providers and completely revamp my site.
+I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I self-host an instance of [Red-DiscordBot][redbot] called [Fennec-san][fennec], which I tuned to be more anime-centric as well as having strong moderation features and other tools to help me with some servers I manage. My bot is only semi-public, but you are welcome to ask me about her if y'all want.
 
 ## Main Activity
+<p align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TwinShadow_SH?color=A30000&label=TwinShadow_SH&logo=Twitter&style=plastic)][twitter]
 [![Discord](https://img.shields.io/discord/723321617140154409?color=A30000&label=Celestial%20Fox%20Discord&logo=Discord&style=plastic)][discord]
 [![YouTube](https://img.shields.io/static/v1?label=TwinShadow_Fox&color=A30000&message=YouTube&logo=YouTube&logoColor=FF0000&style=plastic)][youtube]
-[![Twitch Status](https://img.shields.io/twitch/status/TwinShadow_SH?label=Celestial%20Fox%20Streams&logo=Twitch&style=plastic)][twitch]
+
+</p>
 
 ## Interests and Things
 
@@ -29,7 +31,7 @@ My main website, [ShadowHime][website] is where I just post random things. At th
 - Novice Linux User
 - Familiar with Windows
 - Run a few Discord Servers
-- Hosts Various Discord Bots
+- Hosts [Fennec-san][fennec], a Discord bot
 
 ## Repos
 
@@ -58,8 +60,8 @@ My main website, [ShadowHime][website] is where I just post random things. At th
 
 </details>
 
-[website]: https://shadowhime.net
+[fennec]: https://dash.lolifox.net
 [twitter]: https://twitter.com/TwinShadow_SH
 [youtube]: https://youtube.com/c/TwinShadow_Fox
-[twitch]: https://twitch.tv/TwinShadow_SH
 [discord]: https://discord.io/celestialfox
+[redbot]: https://github.com/Cog-Creators/Red-DiscordBot
