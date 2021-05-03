@@ -44,11 +44,11 @@ I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/Obi-Wan3/OB13-Cogs/issues/10) in [Obi-Wan3/OB13-Cogs](https://github.com/Obi-Wan3/OB13-Cogs)
-2. 🗣 Commented on [#79](https://github.com/calebj/calebj-cogs/issues/79) in [calebj/calebj-cogs](https://github.com/calebj/calebj-cogs)
-3. 💪 Opened PR [#161](https://github.com/puckzxz/NotAnotherAnimeTheme/pull/161) in [puckzxz/NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme)
-4. 🎉 Merged PR [#1](https://github.com/TwinDragon/npc-cogs/pull/1) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
-5. ❌ Closed PR [#2](https://github.com/ShadowDevilsAvenged/Better-Discord/pull/2) in [ShadowDevilsAvenged/Better-Discord](https://github.com/ShadowDevilsAvenged/Better-Discord)
+1. 🗣 Commented on [#10](https://github.com/Obi-Wan3/OB13-Cogs/issues/10) in [Obi-Wan3/OB13-Cogs](https://github.com/Obi-Wan3/OB13-Cogs)
+2. ❗️ Opened issue [#10](https://github.com/Obi-Wan3/OB13-Cogs/issues/10) in [Obi-Wan3/OB13-Cogs](https://github.com/Obi-Wan3/OB13-Cogs)
+3. 🗣 Commented on [#79](https://github.com/calebj/calebj-cogs/issues/79) in [calebj/calebj-cogs](https://github.com/calebj/calebj-cogs)
+4. 💪 Opened PR [#161](https://github.com/puckzxz/NotAnotherAnimeTheme/pull/161) in [puckzxz/NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme)
+5. 🎉 Merged PR [#1](https://github.com/TwinDragon/npc-cogs/pull/1) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
 <!--END_SECTION:activity-->
 
 </details>
