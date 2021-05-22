@@ -35,8 +35,8 @@ I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I
 
 ## Repos
 
-[![Azur Lane Fleet Comp](https://github-readme-stats.twindragon.vercel.app//api/pin/?username=TwinDragon&repo=AzurLane_comp&show_owner=true&theme=dark)](https://github.com/TwinDragon/AzurLane_comp)
-[![Celestial Fox Discord Issues](https://github-readme-stats.twindragon.vercel.app//api/pin/?username=The-Fox-Inc&repo=himeyuri_public&theme=dark)](https://github.com/The-Fox-Inc/himeyuri_public)
+[![Azur Lane Fleet Comp](https://github-twindragon-stats.vercel.app//api/pin/?username=TwinDragon&repo=AzurLane_comp&show_owner=true&theme=dark)](https://github.com/TwinDragon/AzurLane_comp)
+[![Celestial Fox Discord Issues](https://github-twindragon-stats.vercel.app//api/pin/?username=The-Fox-Inc&repo=himeyuri_public&theme=dark)](https://github.com/The-Fox-Inc/himeyuri_public)
 
 ## Random Stats
 
@@ -56,7 +56,7 @@ I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I
 <details>
   <summary>My Meager GitHub Stats:</summary>
 
-  <img align="left" alt="TwinDragon's Stats" src="https://github-readme-stats.twindragon.vercel.app/api?username=TwinDragon&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="TwinDragon's Stats" src="https://github-twindragon-stats.vercel.app/api?username=TwinDragon&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
 
