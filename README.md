@@ -44,11 +44,11 @@ I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TwinDragon/AzurLane_comp/pull/2) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
-2. 💪 Opened PR [#2](https://github.com/TwinDragon/AzurLane_comp/pull/2) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
-3. 🗣 Commented on [#10](https://github.com/Obi-Wan3/OB13-Cogs/issues/10) in [Obi-Wan3/OB13-Cogs](https://github.com/Obi-Wan3/OB13-Cogs)
-4. ❗️ Opened issue [#10](https://github.com/Obi-Wan3/OB13-Cogs/issues/10) in [Obi-Wan3/OB13-Cogs](https://github.com/Obi-Wan3/OB13-Cogs)
-5. 🗣 Commented on [#79](https://github.com/calebj/calebj-cogs/issues/79) in [calebj/calebj-cogs](https://github.com/calebj/calebj-cogs)
+1. ❗️ Opened issue [#12](https://github.com/JAGFx/ts-map/issues/12) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
+2. 🎉 Merged PR [#2](https://github.com/TwinDragon/AzurLane_comp/pull/2) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
+3. 💪 Opened PR [#2](https://github.com/TwinDragon/AzurLane_comp/pull/2) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
+4. 🗣 Commented on [#10](https://github.com/Obi-Wan3/OB13-Cogs/issues/10) in [Obi-Wan3/OB13-Cogs](https://github.com/Obi-Wan3/OB13-Cogs)
+5. ❗️ Opened issue [#10](https://github.com/Obi-Wan3/OB13-Cogs/issues/10) in [Obi-Wan3/OB13-Cogs](https://github.com/Obi-Wan3/OB13-Cogs)
 <!--END_SECTION:activity-->
 
 </details>
