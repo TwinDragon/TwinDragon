@@ -44,11 +44,11 @@ I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#31](https://github.com/nimiiiii/nimi-api/issues/31) in [nimiiiii/nimi-api](https://github.com/nimiiiii/nimi-api)
-2. ❗️ Opened issue [#31](https://github.com/nimiiiii/nimi-api/issues/31) in [nimiiiii/nimi-api](https://github.com/nimiiiii/nimi-api)
-3. ❗️ Opened issue [#81](https://github.com/JAGFx/ets2-dashboard-skin/issues/81) in [JAGFx/ets2-dashboard-skin](https://github.com/JAGFx/ets2-dashboard-skin)
-4. 💪 Opened PR [#5217](https://github.com/Cog-Creators/Red-DiscordBot/pull/5217) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-5. 💪 Opened PR [#70](https://github.com/JAGFx/ets2-dashboard-skin/pull/70) in [JAGFx/ets2-dashboard-skin](https://github.com/JAGFx/ets2-dashboard-skin)
+1. 💪 Opened PR [#2](https://github.com/Predeactor/Red-Administrator/pull/2) in [Predeactor/Red-Administrator](https://github.com/Predeactor/Red-Administrator)
+2. ❗️ Closed issue [#31](https://github.com/nimiiiii/nimi-api/issues/31) in [nimiiiii/nimi-api](https://github.com/nimiiiii/nimi-api)
+3. ❗️ Opened issue [#31](https://github.com/nimiiiii/nimi-api/issues/31) in [nimiiiii/nimi-api](https://github.com/nimiiiii/nimi-api)
+4. ❗️ Opened issue [#81](https://github.com/JAGFx/ets2-dashboard-skin/issues/81) in [JAGFx/ets2-dashboard-skin](https://github.com/JAGFx/ets2-dashboard-skin)
+5. 💪 Opened PR [#5217](https://github.com/Cog-Creators/Red-DiscordBot/pull/5217) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
 <!--END_SECTION:activity-->
 
 </details>
