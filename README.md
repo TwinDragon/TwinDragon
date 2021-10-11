@@ -46,11 +46,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/JAGFx/ts-map/issues/13) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
+1. ❗️ Opened issue [#82](https://github.com/JAGFx/ets2-dashboard-skin/issues/82) in [JAGFx/ets2-dashboard-skin](https://github.com/JAGFx/ets2-dashboard-skin)
 2. 🗣 Commented on [#13](https://github.com/JAGFx/ts-map/issues/13) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
 3. 🗣 Commented on [#13](https://github.com/JAGFx/ts-map/issues/13) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
-4. 🎉 Merged PR [#3](https://github.com/TwinDragon/AzurLane_comp/pull/3) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
-5. 💪 Opened PR [#3](https://github.com/TwinDragon/AzurLane_comp/pull/3) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
+4. 🗣 Commented on [#13](https://github.com/JAGFx/ts-map/issues/13) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
+5. 🎉 Merged PR [#3](https://github.com/TwinDragon/AzurLane_comp/pull/3) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
 <!--END_SECTION:activity-->
 
 </details>
