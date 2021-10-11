@@ -8,14 +8,16 @@ Let's start with my name, Ryan. I can understand a tiny bit of code, but I could
 
 ## Discord Stuff
 
-I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I self-host an instance of [Red-DiscordBot][redbot] called [Fennec-san][fennec], which I tuned to be more anime-centric as well as having strong moderation features and other tools to help me with some servers I manage. My bot is only semi-public, but you are welcome to ask me about her if y'all want.
+I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I self-host an instance of [Red-DiscordBot][redbot] called [Fennec-san][fennec], which I tuned to be more anime-centric as well as having strong moderation features and other tools to help me with some servers I manage.
+
+As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite her into servers. If you wish to inquire further about her and if you've look at her dashboard, feel free to join [Fox Bot Emporium][discord]. Just be prepared to answer a couple minor questions before having your guild whitelisted.
 
 ## Main Activity
 <p align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/TwinShadow_SH?color=A30000&label=TwinShadow_SH&logo=Twitter&style=plastic)][twitter]
-[![Discord](https://img.shields.io/discord/723321617140154409?color=A30000&label=Celestial%20Fox%20Discord&logo=Discord&style=plastic)][discord]
 [![YouTube](https://img.shields.io/static/v1?label=TwinShadow_Fox&color=A30000&message=YouTube&logo=YouTube&logoColor=FF0000&style=plastic)][youtube]
+[![Discord](https://img.shields.io/discord/713548512108740648?color=cc0000&label=Fox%20Bot%20Emporium&logo=discord&logoColor=ffc06d&style=plastic)][discord]
 
 </p>
 
@@ -36,7 +38,7 @@ I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I
 ## Repos
 
 [![Azur Lane Fleet Comp](https://github-twindragon-stats.vercel.app//api/pin/?username=TwinDragon&repo=AzurLane_comp&show_owner=true&theme=dark)](https://github.com/TwinDragon/AzurLane_comp)
-[![Celestial Fox Discord Issues](https://github-twindragon-stats.vercel.app//api/pin/?username=The-Fox-Inc&repo=himeyuri_public&theme=dark)](https://github.com/The-Fox-Inc/himeyuri_public)
+[![SCS Map Tiles](https://github-twindragon-stats.vercel.app//api/pin/?username=TwinDragon&repo=SCS_Map_Tiles&theme=dark)](https://github.com/TwinDragon/SCS_Map_Tiles)
 
 ## Random Stats
 
@@ -61,7 +63,7 @@ I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I
 </details>
 
 [fennec]: https://dash.lolifox.net
+[discord]: https://discord.gg/XCMUykVTFE
 [twitter]: https://twitter.com/TwinShadow_SH
 [youtube]: https://youtube.com/c/TwinShadow_Fox
-[discord]: https://discord.io/celestialfox
 [redbot]: https://github.com/Cog-Creators/Red-DiscordBot
