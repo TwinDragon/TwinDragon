@@ -46,11 +46,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/TwinDragon/AzurLane_comp/pull/4) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
-2. 💪 Opened PR [#4](https://github.com/TwinDragon/AzurLane_comp/pull/4) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
-3. ❗️ Opened issue [#82](https://github.com/JAGFx/ets2-dashboard-skin/issues/82) in [JAGFx/ets2-dashboard-skin](https://github.com/JAGFx/ets2-dashboard-skin)
-4. 🗣 Commented on [#13](https://github.com/JAGFx/ts-map/issues/13) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
-5. 🗣 Commented on [#13](https://github.com/JAGFx/ts-map/issues/13) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
+1. 🎉 Merged PR [#82](https://github.com/TwinDragon/npc-cogs/pull/82) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
+2. 💪 Opened PR [#82](https://github.com/TwinDragon/npc-cogs/pull/82) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
+3. ❌ Closed PR [#81](https://github.com/TwinDragon/npc-cogs/pull/81) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
+4. 🗣 Commented on [#81](https://github.com/TwinDragon/npc-cogs/issues/81) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
+5. 💪 Opened PR [#81](https://github.com/TwinDragon/npc-cogs/pull/81) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
 <!--END_SECTION:activity-->
 
 </details>
