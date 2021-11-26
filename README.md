@@ -42,6 +42,8 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
 
 ## Random Stats
 
+![:TwinDragon](https://count.getloli.com/get/@TwinDragon?theme=gelbooru)
+
 <details>
   <summary>Recent Activity on GitHub:</summary>
 
