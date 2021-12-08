@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/JAGFx/ts-map/issues/16) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
-2. 🎉 Merged PR [#82](https://github.com/TwinDragon/npc-cogs/pull/82) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
-3. 💪 Opened PR [#82](https://github.com/TwinDragon/npc-cogs/pull/82) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
-4. ❌ Closed PR [#81](https://github.com/TwinDragon/npc-cogs/pull/81) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
-5. 🗣 Commented on [#81](https://github.com/TwinDragon/npc-cogs/issues/81) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
+1. 🗣 Commented on [#47](https://github.com/npc203/npc-cogs/issues/47) in [npc203/npc-cogs](https://github.com/npc203/npc-cogs)
+2. ❗️ Opened issue [#16](https://github.com/JAGFx/ts-map/issues/16) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
+3. 🎉 Merged PR [#82](https://github.com/TwinDragon/npc-cogs/pull/82) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
+4. 💪 Opened PR [#82](https://github.com/TwinDragon/npc-cogs/pull/82) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
+5. ❌ Closed PR [#81](https://github.com/TwinDragon/npc-cogs/pull/81) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
 <!--END_SECTION:activity-->
 
 </details>
