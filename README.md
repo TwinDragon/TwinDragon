@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/npc203/npc-cogs/issues/47) in [npc203/npc-cogs](https://github.com/npc203/npc-cogs)
-2. ❗️ Opened issue [#16](https://github.com/JAGFx/ts-map/issues/16) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
-3. 🎉 Merged PR [#82](https://github.com/TwinDragon/npc-cogs/pull/82) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
-4. 💪 Opened PR [#82](https://github.com/TwinDragon/npc-cogs/pull/82) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
-5. ❌ Closed PR [#81](https://github.com/TwinDragon/npc-cogs/pull/81) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
+1. 🗣 Commented on [#112](https://github.com/phenom4n4n/phen-cogs/issues/112) in [phenom4n4n/phen-cogs](https://github.com/phenom4n4n/phen-cogs)
+2. 🗣 Commented on [#112](https://github.com/phenom4n4n/phen-cogs/issues/112) in [phenom4n4n/phen-cogs](https://github.com/phenom4n4n/phen-cogs)
+3. 🗣 Commented on [#47](https://github.com/npc203/npc-cogs/issues/47) in [npc203/npc-cogs](https://github.com/npc203/npc-cogs)
+4. ❗️ Opened issue [#16](https://github.com/JAGFx/ts-map/issues/16) in [JAGFx/ts-map](https://github.com/JAGFx/ts-map)
+5. 🎉 Merged PR [#82](https://github.com/TwinDragon/npc-cogs/pull/82) in [TwinDragon/npc-cogs](https://github.com/TwinDragon/npc-cogs)
 <!--END_SECTION:activity-->
 
 </details>
