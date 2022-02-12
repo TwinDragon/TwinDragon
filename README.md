@@ -48,10 +48,10 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/i-am-zaidali/cray-cogs/pull/9) in [i-am-zaidali/cray-cogs](https://github.com/i-am-zaidali/cray-cogs)
-2. 🗣 Commented on [#9](https://github.com/i-am-zaidali/cray-cogs/issues/9) in [i-am-zaidali/cray-cogs](https://github.com/i-am-zaidali/cray-cogs)
-3. 💪 Opened PR [#9](https://github.com/i-am-zaidali/cray-cogs/pull/9) in [i-am-zaidali/cray-cogs](https://github.com/i-am-zaidali/cray-cogs)
-4. 🗣 Commented on [#112](https://github.com/phenom4n4n/phen-cogs/issues/112) in [phenom4n4n/phen-cogs](https://github.com/phenom4n4n/phen-cogs)
+1. 🗣 Commented on [#5571](https://github.com/Cog-Creators/Red-DiscordBot/issues/5571) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+2. ❌ Closed PR [#9](https://github.com/i-am-zaidali/cray-cogs/pull/9) in [i-am-zaidali/cray-cogs](https://github.com/i-am-zaidali/cray-cogs)
+3. 🗣 Commented on [#9](https://github.com/i-am-zaidali/cray-cogs/issues/9) in [i-am-zaidali/cray-cogs](https://github.com/i-am-zaidali/cray-cogs)
+4. 💪 Opened PR [#9](https://github.com/i-am-zaidali/cray-cogs/pull/9) in [i-am-zaidali/cray-cogs](https://github.com/i-am-zaidali/cray-cogs)
 5. 🗣 Commented on [#112](https://github.com/phenom4n4n/phen-cogs/issues/112) in [phenom4n4n/phen-cogs](https://github.com/phenom4n4n/phen-cogs)
 <!--END_SECTION:activity-->
 
