@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TwinDragon/Trusty-cogs/pull/2) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
-2. 💪 Opened PR [#2](https://github.com/TwinDragon/Trusty-cogs/pull/2) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
-3. 🎉 Merged PR [#1](https://github.com/TwinDragon/Trusty-cogs/pull/1) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
-4. 💪 Opened PR [#1](https://github.com/TwinDragon/Trusty-cogs/pull/1) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
-5. 🗣 Commented on [#208](https://github.com/Kreusada/Kreusada-Cogs/issues/208) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
+1. 💪 Opened PR [#209](https://github.com/Kreusada/Kreusada-Cogs/pull/209) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
+2. 🎉 Merged PR [#2](https://github.com/TwinDragon/Trusty-cogs/pull/2) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
+3. 💪 Opened PR [#2](https://github.com/TwinDragon/Trusty-cogs/pull/2) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
+4. 🎉 Merged PR [#1](https://github.com/TwinDragon/Trusty-cogs/pull/1) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
+5. 💪 Opened PR [#1](https://github.com/TwinDragon/Trusty-cogs/pull/1) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
 <!--END_SECTION:activity-->
 
 </details>
