@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#211](https://github.com/Kreusada/Kreusada-Cogs/pull/211) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
-2. ❗️ Opened issue [#210](https://github.com/Kreusada/Kreusada-Cogs/issues/210) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
-3. 💪 Opened PR [#209](https://github.com/Kreusada/Kreusada-Cogs/pull/209) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
-4. 🎉 Merged PR [#2](https://github.com/TwinDragon/Trusty-cogs/pull/2) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
-5. 💪 Opened PR [#2](https://github.com/TwinDragon/Trusty-cogs/pull/2) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
+1. 💪 Opened PR [#1](https://github.com/TwinDragon/maxcogs/pull/1) in [TwinDragon/maxcogs](https://github.com/TwinDragon/maxcogs)
+2. 💪 Opened PR [#211](https://github.com/Kreusada/Kreusada-Cogs/pull/211) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
+3. ❗️ Opened issue [#210](https://github.com/Kreusada/Kreusada-Cogs/issues/210) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
+4. 💪 Opened PR [#209](https://github.com/Kreusada/Kreusada-Cogs/pull/209) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
+5. 🎉 Merged PR [#2](https://github.com/TwinDragon/Trusty-cogs/pull/2) in [TwinDragon/Trusty-cogs](https://github.com/TwinDragon/Trusty-cogs)
 <!--END_SECTION:activity-->
 
 </details>
