@@ -42,7 +42,7 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
 
 ## Random Stats
 
-![:TwinDragon](https://Moe-counter.twindragon.repl.co/get/@TwinDragon?theme=rule34)
+![:TwinDragon](https://count.getloli.com/get/@TwinDragon?theme=rule34)
 
 <details>
   <summary>Recent Activity on GitHub:</summary>
