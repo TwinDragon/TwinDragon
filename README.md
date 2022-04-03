@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/i-am-zaidali/cray-cogs/pull/29) in [i-am-zaidali/cray-cogs](https://github.com/i-am-zaidali/cray-cogs)
-2. 💪 Opened PR [#58](https://github.com/npc203/npc-cogs/pull/58) in [npc203/npc-cogs](https://github.com/npc203/npc-cogs)
-3. 🎉 Merged PR [#2](https://github.com/TwinDragon/Kreusada-Cogs/pull/2) in [TwinDragon/Kreusada-Cogs](https://github.com/TwinDragon/Kreusada-Cogs)
-4. 💪 Opened PR [#2](https://github.com/TwinDragon/Kreusada-Cogs/pull/2) in [TwinDragon/Kreusada-Cogs](https://github.com/TwinDragon/Kreusada-Cogs)
-5. 🎉 Merged PR [#1](https://github.com/TwinDragon/Kreusada-Cogs/pull/1) in [TwinDragon/Kreusada-Cogs](https://github.com/TwinDragon/Kreusada-Cogs)
+1. 🗣 Commented on [#5634](https://github.com/Cog-Creators/Red-DiscordBot/issues/5634) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+2. 💪 Opened PR [#29](https://github.com/i-am-zaidali/cray-cogs/pull/29) in [i-am-zaidali/cray-cogs](https://github.com/i-am-zaidali/cray-cogs)
+3. 💪 Opened PR [#58](https://github.com/npc203/npc-cogs/pull/58) in [npc203/npc-cogs](https://github.com/npc203/npc-cogs)
+4. 🎉 Merged PR [#2](https://github.com/TwinDragon/Kreusada-Cogs/pull/2) in [TwinDragon/Kreusada-Cogs](https://github.com/TwinDragon/Kreusada-Cogs)
+5. 💪 Opened PR [#2](https://github.com/TwinDragon/Kreusada-Cogs/pull/2) in [TwinDragon/Kreusada-Cogs](https://github.com/TwinDragon/Kreusada-Cogs)
 <!--END_SECTION:activity-->
 
 </details>
