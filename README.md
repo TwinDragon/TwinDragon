@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/TwinDragon/SCS_Map_Tiles/issues/1) in [TwinDragon/SCS_Map_Tiles](https://github.com/TwinDragon/SCS_Map_Tiles)
-2. 🗣 Commented on [#5634](https://github.com/Cog-Creators/Red-DiscordBot/issues/5634) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
-3. 💪 Opened PR [#29](https://github.com/i-am-zaidali/cray-cogs/pull/29) in [i-am-zaidali/cray-cogs](https://github.com/i-am-zaidali/cray-cogs)
-4. 💪 Opened PR [#58](https://github.com/npc203/npc-cogs/pull/58) in [npc203/npc-cogs](https://github.com/npc203/npc-cogs)
-5. 🎉 Merged PR [#2](https://github.com/TwinDragon/Kreusada-Cogs/pull/2) in [TwinDragon/Kreusada-Cogs](https://github.com/TwinDragon/Kreusada-Cogs)
+1. 🗣 Commented on [#60](https://github.com/zephyrkul/FluffyCogs/issues/60) in [zephyrkul/FluffyCogs](https://github.com/zephyrkul/FluffyCogs)
+2. ❗️ Opened issue [#60](https://github.com/zephyrkul/FluffyCogs/issues/60) in [zephyrkul/FluffyCogs](https://github.com/zephyrkul/FluffyCogs)
+3. 🗣 Commented on [#1](https://github.com/TwinDragon/SCS_Map_Tiles/issues/1) in [TwinDragon/SCS_Map_Tiles](https://github.com/TwinDragon/SCS_Map_Tiles)
+4. 🗣 Commented on [#5634](https://github.com/Cog-Creators/Red-DiscordBot/issues/5634) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+5. 💪 Opened PR [#29](https://github.com/i-am-zaidali/cray-cogs/pull/29) in [i-am-zaidali/cray-cogs](https://github.com/i-am-zaidali/cray-cogs)
 <!--END_SECTION:activity-->
 
 </details>
