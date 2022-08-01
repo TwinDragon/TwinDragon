@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#194](https://github.com/puckzxz/NotAnotherAnimeTheme/pull/194) in [puckzxz/NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme)
-2. 🗣 Commented on [#60](https://github.com/zephyrkul/FluffyCogs/issues/60) in [zephyrkul/FluffyCogs](https://github.com/zephyrkul/FluffyCogs)
-3. ❗️ Opened issue [#60](https://github.com/zephyrkul/FluffyCogs/issues/60) in [zephyrkul/FluffyCogs](https://github.com/zephyrkul/FluffyCogs)
-4. 🗣 Commented on [#1](https://github.com/TwinDragon/SCS_Map_Tiles/issues/1) in [TwinDragon/SCS_Map_Tiles](https://github.com/TwinDragon/SCS_Map_Tiles)
-5. 🗣 Commented on [#5634](https://github.com/Cog-Creators/Red-DiscordBot/issues/5634) in [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)
+1. 🎉 Merged PR [#5](https://github.com/TwinDragon/Red-DiscordBot/pull/5) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
+2. 💪 Opened PR [#5](https://github.com/TwinDragon/Red-DiscordBot/pull/5) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
+3. 🎉 Merged PR [#4](https://github.com/TwinDragon/Red-DiscordBot/pull/4) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
+4. 💪 Opened PR [#4](https://github.com/TwinDragon/Red-DiscordBot/pull/4) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
+5. ❌ Closed PR [#3](https://github.com/TwinDragon/Red-DiscordBot/pull/3) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
 <!--END_SECTION:activity-->
 
 </details>
