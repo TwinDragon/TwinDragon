@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/TwinDragon/Red-DiscordBot/pull/5) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
-2. 💪 Opened PR [#5](https://github.com/TwinDragon/Red-DiscordBot/pull/5) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
-3. 🎉 Merged PR [#4](https://github.com/TwinDragon/Red-DiscordBot/pull/4) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
-4. 💪 Opened PR [#4](https://github.com/TwinDragon/Red-DiscordBot/pull/4) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
-5. ❌ Closed PR [#3](https://github.com/TwinDragon/Red-DiscordBot/pull/3) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
+1. ❌ Closed PR [#58](https://github.com/npc203/npc-cogs/pull/58) in [npc203/npc-cogs](https://github.com/npc203/npc-cogs)
+2. 🗣 Commented on [#58](https://github.com/npc203/npc-cogs/issues/58) in [npc203/npc-cogs](https://github.com/npc203/npc-cogs)
+3. 🎉 Merged PR [#5](https://github.com/TwinDragon/Red-DiscordBot/pull/5) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
+4. 💪 Opened PR [#5](https://github.com/TwinDragon/Red-DiscordBot/pull/5) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
+5. 🎉 Merged PR [#4](https://github.com/TwinDragon/Red-DiscordBot/pull/4) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
 <!--END_SECTION:activity-->
 
 </details>
