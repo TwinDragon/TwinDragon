@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/TwinDragon/Red-DiscordBot/pull/7) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
-2. 💪 Opened PR [#7](https://github.com/TwinDragon/Red-DiscordBot/pull/7) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
-3. 🎉 Merged PR [#6](https://github.com/TwinDragon/Red-DiscordBot/pull/6) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
-4. 💪 Opened PR [#6](https://github.com/TwinDragon/Red-DiscordBot/pull/6) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
-5. ❌ Closed PR [#58](https://github.com/npc203/npc-cogs/pull/58) in [npc203/npc-cogs](https://github.com/npc203/npc-cogs)
+1. 🎉 Merged PR [#6](https://github.com/TwinDragon/SCS_Map_Tiles/pull/6) in [TwinDragon/SCS_Map_Tiles](https://github.com/TwinDragon/SCS_Map_Tiles)
+2. 💪 Opened PR [#6](https://github.com/TwinDragon/SCS_Map_Tiles/pull/6) in [TwinDragon/SCS_Map_Tiles](https://github.com/TwinDragon/SCS_Map_Tiles)
+3. 🎉 Merged PR [#7](https://github.com/TwinDragon/Red-DiscordBot/pull/7) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
+4. 💪 Opened PR [#7](https://github.com/TwinDragon/Red-DiscordBot/pull/7) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
+5. 🎉 Merged PR [#6](https://github.com/TwinDragon/Red-DiscordBot/pull/6) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
 <!--END_SECTION:activity-->
 
 </details>
