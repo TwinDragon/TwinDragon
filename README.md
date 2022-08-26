@@ -26,7 +26,7 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
 - Big Anime Addict
 - Giant Fox Maniac
 - Huge into Foxgirls
-- Chill Game Streamer (occasionally)
+- Simulation Games
 
 <br />
 
@@ -38,7 +38,7 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
 ## Repos
 
 [![Azur Lane Fleet Comp](https://github-twindragon-stats.vercel.app//api/pin/?username=TwinDragon&repo=AzurLane_comp&show_owner=true&theme=dark)](https://github.com/TwinDragon/AzurLane_comp)
-[![SCS Map Tiles](https://github-twindragon-stats.vercel.app//api/pin/?username=TwinDragon&repo=SCS_Map_Tiles&theme=dark)](https://github.com/TwinDragon/SCS_Map_Tiles)
+[![SCS Map Tiles](https://github-twindragon-stats.vercel.app//api/pin/?username=TwinDragon&repo=SCS_Map_Tiles&theme=dark)](https://github.com/Unicor-p/SCS_Map_Tiles)
 
 ## Random Stats
 
