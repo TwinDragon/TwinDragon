@@ -8,7 +8,7 @@ Let's start with my name, Ryan. I can understand a tiny bit of code, but I could
 
 ## Discord Stuff
 
-I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I self-host an instance of [Red-DiscordBot][redbot] called [Fennec-san][fennec], which I tuned to be more anime-centric as well as having strong moderation features and other tools to help me with some servers I manage.
+I run around on Discord as *TwinShadow#0666* and can find me on a few servers. I self-host an instance of [Red-DiscordBot][redbot] called [Fennec-san][discord], which I tuned to be more anime-centric as well as having strong moderation features and other tools to help me with some servers I manage.
 
 As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite her into servers. If you wish to inquire further about her and if you've look at her dashboard, feel free to join [Fox Bot Emporium][discord]. Just be prepared to answer a couple minor questions before having your guild whitelisted.
 
@@ -64,7 +64,6 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
 
 </details>
 
-[fennec]: https://dash.lolifox.net
 [discord]: https://discord.gg/XCMUykVTFE
 [twitter]: https://twitter.com/TwinShadow_SH
 [youtube]: https://youtube.com/c/TwinShadow_Fox
