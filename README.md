@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/Cog-Creators/Red-Dashboard/pull/22) in [Cog-Creators/Red-Dashboard](https://github.com/Cog-Creators/Red-Dashboard)
-2. 🎉 Merged PR [#6](https://github.com/TwinDragon/SCS_Map_Tiles/pull/6) in [TwinDragon/SCS_Map_Tiles](https://github.com/TwinDragon/SCS_Map_Tiles)
-3. 💪 Opened PR [#6](https://github.com/TwinDragon/SCS_Map_Tiles/pull/6) in [TwinDragon/SCS_Map_Tiles](https://github.com/TwinDragon/SCS_Map_Tiles)
-4. 🎉 Merged PR [#7](https://github.com/TwinDragon/Red-DiscordBot/pull/7) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
-5. 💪 Opened PR [#7](https://github.com/TwinDragon/Red-DiscordBot/pull/7) in [TwinDragon/Red-DiscordBot](https://github.com/TwinDragon/Red-DiscordBot)
+1. 🗣 Commented on [#110543](https://github.com/webcompat/web-bugs/issues/110543) in [webcompat/web-bugs](https://github.com/webcompat/web-bugs)
+2. ❗️ Opened issue [#110543](https://github.com/webcompat/web-bugs/issues/110543) in [webcompat/web-bugs](https://github.com/webcompat/web-bugs)
+3. ❌ Closed PR [#22](https://github.com/Cog-Creators/Red-Dashboard/pull/22) in [Cog-Creators/Red-Dashboard](https://github.com/Cog-Creators/Red-Dashboard)
+4. 🎉 Merged PR [#6](https://github.com/TwinDragon/SCS_Map_Tiles/pull/6) in [TwinDragon/SCS_Map_Tiles](https://github.com/TwinDragon/SCS_Map_Tiles)
+5. 💪 Opened PR [#6](https://github.com/TwinDragon/SCS_Map_Tiles/pull/6) in [TwinDragon/SCS_Map_Tiles](https://github.com/TwinDragon/SCS_Map_Tiles)
 <!--END_SECTION:activity-->
 
 </details>
