@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Unicor-p/SCS_Map_Tiles/pull/7) in [Unicor-p/SCS_Map_Tiles](https://github.com/Unicor-p/SCS_Map_Tiles)
-2. ❌ Closed PR [#211](https://github.com/Kreusada/Kreusada-Cogs/pull/211) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
-3. 🗣 Commented on [#110543](https://github.com/webcompat/web-bugs/issues/110543) in [webcompat/web-bugs](https://github.com/webcompat/web-bugs)
-4. ❗️ Opened issue [#110543](https://github.com/webcompat/web-bugs/issues/110543) in [webcompat/web-bugs](https://github.com/webcompat/web-bugs)
-5. ❌ Closed PR [#22](https://github.com/Cog-Creators/Red-Dashboard/pull/22) in [Cog-Creators/Red-Dashboard](https://github.com/Cog-Creators/Red-Dashboard)
+1. ❗️ Closed issue [#9](https://github.com/Unicor-p/SCS_Map_Tiles/issues/9) in [Unicor-p/SCS_Map_Tiles](https://github.com/Unicor-p/SCS_Map_Tiles)
+2. 🗣 Commented on [#9](https://github.com/Unicor-p/SCS_Map_Tiles/issues/9) in [Unicor-p/SCS_Map_Tiles](https://github.com/Unicor-p/SCS_Map_Tiles)
+3. ❗️ Opened issue [#9](https://github.com/Unicor-p/SCS_Map_Tiles/issues/9) in [Unicor-p/SCS_Map_Tiles](https://github.com/Unicor-p/SCS_Map_Tiles)
+4. 💪 Opened PR [#8](https://github.com/Unicor-p/SCS_Map_Tiles/pull/8) in [Unicor-p/SCS_Map_Tiles](https://github.com/Unicor-p/SCS_Map_Tiles)
+5. 💪 Opened PR [#7](https://github.com/Unicor-p/SCS_Map_Tiles/pull/7) in [Unicor-p/SCS_Map_Tiles](https://github.com/Unicor-p/SCS_Map_Tiles)
 <!--END_SECTION:activity-->
 
 </details>
