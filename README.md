@@ -33,7 +33,7 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
 - Novice Linux User
 - Familiar with Windows
 - Run a few Discord Servers
-- Hosts [Fennec-san][fennec], a Discord bot
+- Hosts [Fennec-san][discord], a Discord bot
 
 ## Repos
 
