@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/TwinDragon/SCS_Map_Test/issues/5) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
-2. ❗️ Closed issue [#4](https://github.com/TwinDragon/SCS_Map_Test/issues/4) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
-3. ❗️ Closed issue [#3](https://github.com/TwinDragon/SCS_Map_Test/issues/3) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
-4. ❗️ Closed issue [#1](https://github.com/TwinDragon/SCS_Map_Test/issues/1) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
-5. ❗️ Closed issue [#2](https://github.com/TwinDragon/SCS_Map_Test/issues/2) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
+1. ❗️ Closed issue [#60](https://github.com/Zephyrkul/FluffyCogs/issues/60) in [Zephyrkul/FluffyCogs](https://github.com/Zephyrkul/FluffyCogs)
+2. ❗️ Closed issue [#5](https://github.com/TwinDragon/SCS_Map_Test/issues/5) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
+3. ❗️ Closed issue [#4](https://github.com/TwinDragon/SCS_Map_Test/issues/4) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
+4. ❗️ Closed issue [#3](https://github.com/TwinDragon/SCS_Map_Test/issues/3) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
+5. ❗️ Closed issue [#1](https://github.com/TwinDragon/SCS_Map_Test/issues/1) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
 <!--END_SECTION:activity-->
 
 </details>
