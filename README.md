@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#60](https://github.com/Zephyrkul/FluffyCogs/issues/60) in [Zephyrkul/FluffyCogs](https://github.com/Zephyrkul/FluffyCogs)
-2. ❗️ Closed issue [#5](https://github.com/TwinDragon/SCS_Map_Test/issues/5) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
-3. ❗️ Closed issue [#4](https://github.com/TwinDragon/SCS_Map_Test/issues/4) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
-4. ❗️ Closed issue [#3](https://github.com/TwinDragon/SCS_Map_Test/issues/3) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
-5. ❗️ Closed issue [#1](https://github.com/TwinDragon/SCS_Map_Test/issues/1) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
+1. ❌ Closed PR [#194](https://github.com/puckzxz/NotAnotherAnimeTheme/pull/194) in [puckzxz/NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme)
+2. ❗️ Closed issue [#210](https://github.com/Kreusada/Kreusada-Cogs/issues/210) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
+3. ❗️ Closed issue [#60](https://github.com/Zephyrkul/FluffyCogs/issues/60) in [Zephyrkul/FluffyCogs](https://github.com/Zephyrkul/FluffyCogs)
+4. ❗️ Closed issue [#5](https://github.com/TwinDragon/SCS_Map_Test/issues/5) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
+5. ❗️ Closed issue [#4](https://github.com/TwinDragon/SCS_Map_Test/issues/4) in [TwinDragon/SCS_Map_Test](https://github.com/TwinDragon/SCS_Map_Test)
 <!--END_SECTION:activity-->
 
 </details>
