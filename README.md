@@ -48,10 +48,10 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Unicor-p/SCS_Map_Tiles/pull/7) in [Unicor-p/SCS_Map_Tiles](https://github.com/Unicor-p/SCS_Map_Tiles)
-2. 🎉 Merged PR [#8](https://github.com/Unicor-p/SCS_Map_Tiles/pull/8) in [Unicor-p/SCS_Map_Tiles](https://github.com/Unicor-p/SCS_Map_Tiles)
-3. ❌ Closed PR [#194](https://github.com/puckzxz/NotAnotherAnimeTheme/pull/194) in [puckzxz/NotAnotherAnimeTheme](https://github.com/puckzxz/NotAnotherAnimeTheme)
-4. ❗️ Closed issue [#210](https://github.com/Kreusada/Kreusada-Cogs/issues/210) in [Kreusada/Kreusada-Cogs](https://github.com/Kreusada/Kreusada-Cogs)
+1. 🎉 Merged PR [#6](https://github.com/TwinDragon/AzurLane_comp/pull/6) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
+2. 🎉 Merged PR [#5](https://github.com/TwinDragon/AzurLane_comp/pull/5) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
+3. 💪 Opened PR [#6](https://github.com/TwinDragon/AzurLane_comp/pull/6) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
+4. 💪 Opened PR [#5](https://github.com/TwinDragon/AzurLane_comp/pull/5) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
 5. ❗️ Closed issue [#60](https://github.com/Zephyrkul/FluffyCogs/issues/60) in [Zephyrkul/FluffyCogs](https://github.com/Zephyrkul/FluffyCogs)
 <!--END_SECTION:activity-->
 
