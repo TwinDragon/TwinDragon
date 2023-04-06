@@ -48,11 +48,11 @@ As *Fennec-san* is a semi-public bot, I'm only allowing some people to invite he
   <summary>Recent Activity on GitHub:</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/TwinDragon/AzurLane_comp/pull/6) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
-2. 🎉 Merged PR [#5](https://github.com/TwinDragon/AzurLane_comp/pull/5) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
-3. 💪 Opened PR [#6](https://github.com/TwinDragon/AzurLane_comp/pull/6) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
-4. 💪 Opened PR [#5](https://github.com/TwinDragon/AzurLane_comp/pull/5) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
-5. ❗️ Closed issue [#60](https://github.com/Zephyrkul/FluffyCogs/issues/60) in [Zephyrkul/FluffyCogs](https://github.com/Zephyrkul/FluffyCogs)
+1. ❗️ Closed issue [#361](https://github.com/aikaterna/gobcog/issues/361) in [aikaterna/gobcog](https://github.com/aikaterna/gobcog)
+2. 🎉 Merged PR [#6](https://github.com/TwinDragon/AzurLane_comp/pull/6) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
+3. 🎉 Merged PR [#5](https://github.com/TwinDragon/AzurLane_comp/pull/5) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
+4. 💪 Opened PR [#6](https://github.com/TwinDragon/AzurLane_comp/pull/6) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
+5. 💪 Opened PR [#5](https://github.com/TwinDragon/AzurLane_comp/pull/5) in [TwinDragon/AzurLane_comp](https://github.com/TwinDragon/AzurLane_comp)
 <!--END_SECTION:activity-->
 
 </details>
